@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-class NaverArticleCrawler:
+class ArticleCrawler:
     def __init__(self):
         pass
 
